@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="379" started-at="2018-09-14T05:28:27Z" finished-at="2018-09-14T05:28:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="379" started-at="2018-09-14T05:28:27Z" finished-at="2018-09-14T05:28:27Z">
+      <class name="vijay.AppiumTest">
+        <test-method status="PASS" signature="AppiumTest()[pri:0, instance:vijay.AppiumTest@1d057a39]" name="AppiumTest" duration-ms="22" started-at="2018-09-14T10:58:27Z" finished-at="2018-09-14T10:58:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTest -->
+        <test-method status="PASS" signature="AppiumTestRest()[pri:0, instance:vijay.AppiumTest@1d057a39]" name="AppiumTestRest" duration-ms="8" started-at="2018-09-14T10:58:27Z" finished-at="2018-09-14T10:58:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTestRest -->
+      </class> <!-- vijay.AppiumTest -->
+      <class name="vijay.MobileTest">
+        <test-method status="PASS" signature="MobileTest()[pri:0, instance:vijay.MobileTest@224edc67]" name="MobileTest" duration-ms="74" started-at="2018-09-14T10:58:27Z" finished-at="2018-09-14T10:58:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest -->
+        <test-method status="PASS" signature="MobileTestRest()[pri:0, instance:vijay.MobileTest@224edc67]" name="MobileTestRest" duration-ms="6" started-at="2018-09-14T10:58:27Z" finished-at="2018-09-14T10:58:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTestRest -->
+      </class> <!-- vijay.MobileTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
